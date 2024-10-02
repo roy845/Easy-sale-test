@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EasySaleTest</string>
+    <string name="fab_description">Add Product</string>
+    <string name="add_new_product_header">Add New Product</string>
+    <string name="delete_btn_txt">Delete</string>
+    <string name="cancel_btn_text">Cancel</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_price">Product Price ($)</string>
+    <string name="product_category">Product Category</string>
+    <string name="product_description">Product Description</string>
+    <string name="add_product_btn_text">Add Product</string>
+    <string name="product_image">Product Image</string>
+
+</resources>
