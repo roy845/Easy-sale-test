@@ -104,7 +104,6 @@ public class ProductAdapter extends PagingDataAdapter<Product, ProductAdapter.Pr
 
             Glide.with(context)
                     .load(Uri.parse(image))
-                    .circleCrop()
                     .into(avatarImageView);
         }
     }
